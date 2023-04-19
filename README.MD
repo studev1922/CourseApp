@@ -1,9 +1,6 @@
-# QUAN-LY-KHOA-HOC
-Quản lý khóa học
-
-- 👋 Hi, I’m @DHoa0202
-- 👀 I’m interested in #java, web, spring-boot and data
-- 🌱 I’m currently learning at FPT polytechnich HCM
+# COURSE MANAGER APPLICATION
+Video demo: [CourseApp https://youtu.be/hvRBzQ1H84U](https://youtu.be/hvRBzQ1H84U)
+<hr/>
 
 ## POINT TO PROJECT SOURCE
 `execute file database` <br/>
